@@ -96,7 +96,7 @@ python sql_extraction.py > output.txt
 ```
 File yang dihasilkan dapat digunakan untuk analisis mendalam lebih lanjut.
 
-[![asciicast](https://asciinema.org/a/683023.svg)](https://asciinema.org/a/683023)
+[![asciicast](https://asciinema.org/a/693706.svg)](https://asciinema.org/a/693706)
 Skrip ini sangat cocok untuk penguji penetrasi untuk menghitung basis data & mengekstrak kolom secara efisien. 🚀
 
 &copy; [PT. Pwn0Sec DIGITAL TECHNOLOGIES LTD.](https://www.pwn0sec.com/) 
